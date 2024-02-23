@@ -6,7 +6,7 @@
 <div>
  <a href="https://github.com/nimethv">
 <img height="170em"  src="https://readmestats.999857.xyz/api?username=nimethv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      
+<img height="170em"  src="https://readmestats.999857.xyz/api/top-langs/?username=nimethv&layout=compact&langs_count=6&theme=dracula"/>      
 </div>
 
 
@@ -28,4 +28,4 @@
 <a href="https://www.linkedin.com/in/melyssa-nimeth" target="_blank"><img align="right" loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.comnimethv/blob/output/github-contribution-grid-snake.svg)
+
