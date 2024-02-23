@@ -5,11 +5,11 @@
 
 <div>
  <a href="https://github.com/nimethv">
-<img height="170em"  src="https://readmestats.999857.xyz/api?username=nimethv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="170em"  src="https://readmestats.999857.xyz/api/top-langs/?username=nimethv&layout=compact&langs_count=6&theme=dracula"/>      
+<img height="170em" align="left" src="https://readmestats.999857.xyz/api?username=nimethv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em"  src="https://readmestats.999857.xyz/api/top-langs/?username=nimethv&layout=compact&langs_count=6&theme=dracula"/>   
 </div>
 
-<img align="right" alt="gif-melyssa" src="https://s5.ezgif.com/tmp/ezgif-5-87b87287f8.gif" width="100" height="100"/><br>
+<br><img align="right" alt="gif-melyssa" src="https://s5.ezgif.com/tmp/ezgif-5-87b87287f8.gif" width="100" height="100"/><br>
 
 <div style= "display: inline-block"><br>
 <img align="center" alt="ícone-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="30"/>
@@ -26,5 +26,6 @@
 <a href = "mailto:contato@melyssa.nimeth.v@gmail.com"><img align="right" loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/melyssa-nimeth" target="_blank"><img align="right" loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 
