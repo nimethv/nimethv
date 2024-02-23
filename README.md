@@ -19,8 +19,6 @@
 <img align="center" alt="ícone-javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="30"/>
 </div>
 
-##
-
 <div>
  <a href="https://instagram.com/_arih" target="_blank"><img align="right" loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@melyssa.nimeth.v@gmail.com"><img align="right" loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
