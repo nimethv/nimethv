@@ -6,7 +6,6 @@
 <div>
  <a href="https://github.com/nimethv">
 <img height="170em" align="left" src="https://readmestats.999857.xyz/api?username=nimethv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em"  src="https://readmestats.999857.xyz/api/top-langs/?username=nimethv&layout=compact&langs_count=6&theme=dracula"/>   
 </div>
 
 <br><img align="right" alt="gif-melyssa" src="https://s5.ezgif.com/tmp/ezgif-5-87b87287f8.gif" width="100" height="100"/><br>
