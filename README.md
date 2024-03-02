@@ -8,8 +8,6 @@
 <img height="170em" align="left" src="https://readmestats.999857.xyz/api?username=nimethv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<br><img align="right" alt="gif-melyssa" src="https://s5.ezgif.com/tmp/ezgif-5-87b87287f8.gif" width="100" height="100"/><br>
-
 <div style= "display: inline-block"><br>
 <img align="center" alt="ícone-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="30"/>
 <img align="center" alt="ícone-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="30" margin-right="50em"/>
