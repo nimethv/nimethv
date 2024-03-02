@@ -1,8 +1,4 @@
 ### Olá! 👋
-
-- 🔭 Interesses: back-end e inteligência artificial
-- 🌱 Estou aprendendo java, phyton e sql
-
 <div>
  <a href="https://github.com/nimethv">
 <img height="170em" align="left" src="https://readmestats.999857.xyz/api?username=nimethv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
