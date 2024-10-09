@@ -1,24 +1,14 @@
-### Olá! 👋
-<div>
- <a href="https://github.com/nimethv">
-<img height="170em" align="left" src="https://readmestats.999857.xyz/api?username=nimethv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+# 💫 Olá, meu nome é Melyssa
+⌨ Estudo Sistemas de Informação na FIAP (Faculdade de Informática e Administração Paulista) <br>
+🖱 Áreas de foco: inteligência artificial e desenvolvimento fullstack.
 
-<div style= "display: inline-block"><br>
-<img align="center" alt="ícone-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="30"/>
-<img align="center" alt="ícone-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="30" margin-right="50em"/>
-<img align="center" alt="ícone-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="30"/>
-<img align="center" alt="ícone-javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="40"/>
-<img align="center" alt="ícone-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="30"/>
-<img align="center" alt="ícone-bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="30"/>
-<img align="center" alt="ícone-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="45"/>  
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nimethv&theme=rose&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimethv&theme=rose&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div>
-<br><a href="https://instagram.com/nimethv" target="_blank"><img align="right" loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@melyssa.nimeth.v@gmail.com"><img align="right" loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/melyssa-nimeth" target="_blank"><img align="right" loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nimethv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
