@@ -4,7 +4,7 @@
 ![giphy](https://github.com/user-attachments/assets/62d836c2-0f45-48fd-a76a-2631e7cec18a)
 
 ###  Tech Stack:
-[![Tech Stack](https://skillicons.dev/icons?i=java,python,js,html,css,sass,react&theme=light)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,python,js,html,css,sass,react,nodejs&theme=light)](https://skillicons.dev)
 
 ### GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=nimethv&theme=graywhite&hide_border=false)
