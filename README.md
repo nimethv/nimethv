@@ -12,7 +12,7 @@
     <td style="padding-left: 20px;">
       <div>
         <h3>About Me:</h3>
-        I’m a full-stack developer with a passion for blending technology and art. I enjoy exploring creative coding, electronics, and innovative ways to build projects that are both functional and visually engaging. Constantly curious, I love experimenting with new technologies and learning through hands-on creation.
+        I’m a full-stack developer passionate about blending technology and art. I enjoy exploring creative coding, electronics, and innovative ways to build projects that are both functional and visually engaging. Constantly curious, I love experimenting with new technologies and learning through hands-on creation.
       </div>
       <h3>Tech Stack:</h3>
       <a href="https://skillicons.dev">
