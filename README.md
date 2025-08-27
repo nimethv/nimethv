@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/62d836c2-0f45-48fd-a76a-2631e7cec18a" width="600">
+      <img src="https://github.com/user-attachments/assets/62d836c2-0f45-48fd-a76a-2631e7cec18a" width="500">
     </td>
     <td style="padding-left: 20px;">
       <div>
